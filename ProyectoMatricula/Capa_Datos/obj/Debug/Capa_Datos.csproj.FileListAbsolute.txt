@@ -1,0 +1,41 @@
+C:\Users\PC\Desktop\Exam1_AshlySaborioTames\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Exam1_AshlySaborioTames\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\ashly\Desktop\asda\Exam1_AshlySaborioTames\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\ashly\Desktop\asda\Exam1_AshlySaborioTames\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\ashly\Desktop\asda\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\ashly\Desktop\asda\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\ashly\Desktop\asda\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\ashly\Desktop\asda\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\ashly\Desktop\Exam1_AshlySaborioTames\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\ashly\Desktop\Exam1_AshlySaborioTames\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\ashly\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\ashly\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\ashly\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\ashly\Desktop\Exam1_AshlySaborioTames\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\JavyPC\Desktop\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\JavyPC\Desktop\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\JavyPC\Desktop\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\JavyPC\Desktop\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\JavyPC\Desktop\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Esdras\Documents\Universidad\Administración y control de proyectos\Proyecto\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Esdras\Documents\Universidad\Administración y control de proyectos\Proyecto\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Esdras\Documents\Universidad\Administración y control de proyectos\Proyecto\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Esdras\Documents\Universidad\Administración y control de proyectos\Proyecto\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Esdras\Documents\Universidad\Administración y control de proyectos\Proyecto\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Esdras\Documents\Universidad\Administración y control de proyectos\Proyecto\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Estudio\UAM\Sistemas\2022\Administración y Control de Proyectos Sistemas\Proyecto\AdminProyectos\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Estudio\UAM\Sistemas\2022\Administración y Control de Proyectos Sistemas\Proyecto\AdminProyectos\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Estudio\UAM\Sistemas\2022\Administración y Control de Proyectos Sistemas\Proyecto\AdminProyectos\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+D:\Estudio\UAM\Sistemas\2022\Administración y Control de Proyectos Sistemas\Proyecto\AdminProyectos\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Estudio\UAM\Sistemas\2022\Administración y Control de Proyectos Sistemas\Proyecto\AdminProyectos\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Estudio\UAM\Sistemas\2022\Administración y Control de Proyectos Sistemas\Proyecto\AdminProyectos\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\JoseEduardoLopezAria\Desktop\AdminProyectosVFinal\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\JoseEduardoLopezAria\Desktop\AdminProyectosVFinal\ProyectoMatricula\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\JoseEduardoLopezAria\Desktop\AdminProyectosVFinal\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\JoseEduardoLopezAria\Desktop\AdminProyectosVFinal\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\JoseEduardoLopezAria\Desktop\AdminProyectosVFinal\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\JoseEduardoLopezAria\Desktop\AdminProyectosVFinal\ProyectoMatricula\Capa_Datos\obj\Debug\Capa_Datos.pdb
